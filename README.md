@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Catatomik 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=Catatomik)
+![Discord](https://img.shields.io/badge/-Catat%C3%B8mik%238943-black?logo=discord&logoColor=white)
 
 ### Tools I used to code
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=Visual-Studio-Code)
