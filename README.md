@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Catatomik 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=Catatomik)
+![](https://komarev.com/ghpvc/?username=Catatomik&style=flat-square&color=000000)
 ![Discord](https://img.shields.io/badge/-Catat%C3%B8mik%238943-black?logo=discord&logoColor=white)
 
 ### Tools I use to code
