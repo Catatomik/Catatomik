@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Catatomik 👋</h1>
 
 [![](https://komarev.com/ghpvc/?username=Catatomik&style=flat-square&color=000000)](https://github.com/Catatomik)
-[![Discord](https://img.shields.io/badge/-Catat%C3%B8mik%238943-black?logo=discord&logoColor=white)](https://discord.gg/uCuQnmE)
+[![Discord](https://img.shields.io/badge/-catat%C3%B8mik-black?logo=discord&logoColor=white)](https://discord.gg/uCuQnmE)
 
 ### Tools used
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=Visual-Studio-Code)](https://github.com/microsoft/vscode)
