@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/-catat%C3%B8mik-black?logo=discord&logoColor=white)](https://discord.gg/uCuQnmE)
 
 ### Tools used
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=Visual-Studio-Code)](https://github.com/microsoft/vscode)
+[![VSCodium](https://img.shields.io/badge/-VSCodium-black?style=flat&logo=vscodium)](https://github.com/VSCodium/vscodium)
 [![NPM](https://img.shields.io/badge/NPM-black?style=flat&logo=npm)](https://github.com/npm/cli)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/github)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://github.com/mongodb/node-mongodb-native)
