@@ -23,6 +23,6 @@ Lover of those librairies :
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Catatomik&theme=vue-dark)
 
-✍ Also developing in [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://github.com/python) or VB.net.
+✍ Also developing in [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://github.com/python), ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c) or VB.net.
 
 ![](https://github-readme-stats.vercel.app/api?username=Catatomik&count_private=true&show_icons=true&theme=vue-dark) 
